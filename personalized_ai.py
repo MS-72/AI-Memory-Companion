@@ -1,7 +1,3 @@
-# import sys
-# import pysqlite3
-# sys.modules["sqlite3"] = pysqlite3
-
 import streamlit as st
 import chromadb  # vector memory ko save karny or aik jaisy notes search karny ky liye
 import json
